@@ -114,7 +114,7 @@ ul {
     line-height: 1.5em;
     margin: 0.5em 0 0 1.5em;
     padding: 0;
-    list-style-image: url(http://www.kernel-panic.org/bullet.gif);
+    list-style-image: url(../../bullet.gif);
     list-style-type: square;
 }
 
@@ -164,7 +164,7 @@ textarea {
     font: 100% Monaco, "Courier New", Courier, monospace;
     border: 1px solid #8cacbb;
     color: Black;
-    background: White url(http://www.kernel-panic.org/input_background.gif) repeat-x;
+    background: White url(../../input_background.gif) repeat-x;
     width: 100%;
 }
 
@@ -174,7 +174,7 @@ input {
     border: 1px solid #8cacbb;
     color: Black;
     vertical-align: middle;
-    background: White url(http://www.kernel-panic.org/input_background.gif) repeat-x;
+    background: White url(../../input_background.gif) repeat-x;
 }
 select {
     border: 1px solid #8cacbb;
@@ -379,7 +379,7 @@ del {
 }
 
 .fieldRequired {
-    background: url(http://www.kernel-panic.org/required.gif) center left no-repeat;
+    background: url(../../required.gif) center left no-repeat;
     padding: 0 0 0 8px;
     color: White;
 }
@@ -444,7 +444,7 @@ del {
 /* Logo properties */
 
 #portal-logo {
-    background: url(http://www.kernel-panic.org/logo.jpg) no-repeat;
+    background: url(../../logo.jpg) no-repeat;
     border: 0;
     margin: 0.75em 0em 0.75em 1.5em;
     padding: 0;
@@ -730,7 +730,7 @@ del {
 }
 
 #portal-personaltools .portalUser {
-    background: transparent url(http://www.kernel-panic.org/user.gif) center left no-repeat;
+    background: transparent url(../../user.gif) center left no-repeat;
     padding-left: 18px;
 }
 
@@ -896,7 +896,7 @@ del {
     margin: 1em 0em;
     padding: 0.5em 1em 0.5em 3em;
     vertical-align: middle;
-    background-image: url(http://www.kernel-panic.org/info_icon.gif);
+    background-image: url(../../info_icon.gif);
     background-repeat: no-repeat;
     background-position: 5px 50%;
 }
@@ -1138,27 +1138,27 @@ textarea.proportional {
 }
 
 #portal-colophon .colophonIconPlone {
-    background-image: url(http://www.kernel-panic.org/plone_powered.gif);
+    background-image: url(../../plone_powered.gif);
 }
 
 #portal-colophon .colophonIcon508 {
-    background-image: url(http://www.kernel-panic.org/colophon_sec508.gif);
+    background-image: url(../../colophon_sec508.gif);
 }
 
 #portal-colophon .colophonIconWAI {
-    background-image: url(http://www.kernel-panic.org/colophon_wai-aa.gif);
+    background-image: url(../../colophon_wai-aa.gif);
 }
 
 #portal-colophon .colophonIconXHTML {
-    background-image: url(http://www.kernel-panic.org/colophon_xhtml.png);
+    background-image: url(../../colophon_xhtml.png);
 }
 
 #portal-colophon .colophonIconCSS {
-    background-image: url(http://www.kernel-panic.org/colophon_css.png);
+    background-image: url(../../colophon_css.png);
 }
 
 #portal-colophon .colophonIconAnyBrowser {
-    background-image: url(http://www.kernel-panic.org/colophon_anybrowser.png);
+    background-image: url(../../colophon_anybrowser.png);
 }
 
 
@@ -1216,64 +1216,64 @@ textarea.proportional {
 
 .link-parent {
     display: block;
-    background: transparent url(http://www.kernel-panic.org/arrowUp.gif) 4px 5px no-repeat;
+    background: transparent url(../../arrowUp.gif) 4px 5px no-repeat;
     padding: 1px 0px 10px 16px;
     font-size: 85%;
     text-decoration: none;
 }
 
 .link-user {
-    background: transparent url(http://www.kernel-panic.org/user.gif) 0 1px no-repeat;
+    background: transparent url(../../user.gif) 0 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-external {
-    background: transparent url(http://www.kernel-panic.org/link_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../link_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-https {
-    background: transparent url(http://www.kernel-panic.org/lock_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../lock_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-mailto {
-    background: transparent url(http://www.kernel-panic.org/mail_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../mail_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-news {
-    background: transparent url(http://www.kernel-panic.org/topic_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../topic_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-ftp {
-    background: transparent url(http://www.kernel-panic.org/file_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../file_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-irc {
-    background: transparent url(http://www.kernel-panic.org/discussionitem_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../discussionitem_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-callto {
-    background: transparent url(http://www.kernel-panic.org/phone_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../phone_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-webcal {
-    background: transparent url(http://www.kernel-panic.org/event_icon.gif) 0px 1px no-repeat;
+    background: transparent url(../../event_icon.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 16px;
 }
 
 .link-feed {
-    background: transparent url(http://www.kernel-panic.org/rss.gif) 0px 1px no-repeat;
+    background: transparent url(../../rss.gif) 0px 1px no-repeat;
     padding: 1px 0px 1px 18px;
 }
 
 .link-comment {
-    background: transparent url(http://www.kernel-panic.org/discussionitem_icon.gif) center left no-repeat;
+    background: transparent url(../../discussionitem_icon.gif) center left no-repeat;
     padding: 1px 0px 1px 16px !important; /* value:  */
 }
 
@@ -1405,7 +1405,7 @@ body.fullscreen #portal-column-content {
 
 .standalone,
 .documentEditable * .standalone {
-    background: #dee7ec url(http://www.kernel-panic.org/linkOpaque.gif) 9px 1px no-repeat;
+    background: #dee7ec url(../../linkOpaque.gif) 9px 1px no-repeat;
     cursor: pointer;
     font-size: 85%;
     padding: 1px 1px 1px 15px;
@@ -1413,7 +1413,7 @@ body.fullscreen #portal-column-content {
 }
 .context,
 .documentEditable * .context {
-    background: transparent url(http://www.kernel-panic.org/linkTransparent.gif) 9px 1px no-repeat;
+    background: transparent url(../../linkTransparent.gif) 9px 1px no-repeat;
     cursor: pointer;
     font-size: 85%;
     padding: 1px 1px 1px 15px;
@@ -1421,7 +1421,7 @@ body.fullscreen #portal-column-content {
 }
 .destructive,
 .documentEditable * .destructive {
-    background: #ffce7b url(http://www.kernel-panic.org/linkTransparent.gif) 9px 1px no-repeat;
+    background: #ffce7b url(../../linkTransparent.gif) 9px 1px no-repeat;
     border: 1px solid #ffa500;
     cursor: pointer;
     font-size: 85%;
@@ -1431,7 +1431,7 @@ body.fullscreen #portal-column-content {
 input.searchButton {
     margin-bottom: 1px ! important;
     font-size: 85%;
-    background: White url(http://www.kernel-panic.org/search_icon.gif) 2px 1px no-repeat;
+    background: White url(../../search_icon.gif) 2px 1px no-repeat;
     cursor: pointer;
     padding: 1px 1px 1px 15px;
     text-transform: lowercase;
@@ -1638,7 +1638,7 @@ ol.visualNoMarker {
 }
 
 .comment h3 a {
-    background-image: url(http://www.kernel-panic.org/discussionitem_icon.gif);
+    background-image: url(../../discussionitem_icon.gif);
     background-repeat: no-repeat;
     padding-left: 18px;
     margin-left: -1px;
@@ -1776,7 +1776,7 @@ ol.visualNoMarker {
 
 .actionMenu.activated .actionMenuHeader a,
 .actionMenu.deactivated .actionMenuHeader a {
-    background-image: url(http://www.kernel-panic.org/arrowDownAlternative.gif);
+    background-image: url(../../arrowDownAlternative.gif);
     background-repeat: no-repeat;
     background-position: 95% 60%;
     padding: 0 1.6em 0 0.5em !important;
@@ -1906,7 +1906,7 @@ ol.visualNoMarker {
 .actionMenuSelected {
     display: block;
     cursor: default;
-    background-image: url(http://www.kernel-panic.org/bullet_icon.gif);
+    background-image: url(../../bullet_icon.gif);
     background-repeat: no-repeat;
     background-position: 0% 3px;
     padding-left: 16px !important;
@@ -2348,12 +2348,12 @@ li.navTreeCurrentItem a:hover {
     border: 2px solid #ffa500;
 }
 .ploneCalendar #calendar-previous {
-    background-image: url(http://www.kernel-panic.org/arrowLeft.gif);
+    background-image: url(../../arrowLeft.gif);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
 .ploneCalendar #calendar-next {
-    background-image: url(http://www.kernel-panic.org/arrowRight.gif);
+    background-image: url(../../arrowRight.gif);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
@@ -2403,7 +2403,7 @@ li.navTreeCurrentItem a:hover {
 /*  (not this either :) */
 
 body {
-    background: White url(http://www.kernel-panic.org/logo.jpg) no-repeat fixed 95% 95%;
+    background: White url(../../logo.jpg) no-repeat fixed 95% 95%;
     font-family: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
     font-size: 50px !important;
     color: Black;
@@ -2483,7 +2483,7 @@ p {
 }
 
 ul { 
-    list-style-image: url(http://www.kernel-panic.org/bulletBig.gif); 
+    list-style-image: url(../../bulletBig.gif); 
 }
 
 pre { 
@@ -2921,7 +2921,7 @@ label {
 }
 .contentActions li {
     float: right;
-    background-image: url(http://www.kernel-panic.org/arrowDownAlternative.gif);
+    background-image: url(../../arrowDownAlternative.gif);
     background-repeat: no-repeat;
     background-position: center right;
     z-index: 4;
@@ -3281,7 +3281,7 @@ div.portletFooter {
 
       .contenttype-bookreview,
     .actionMenu .contenttype-bookreview a:hover { 
-        background-image: url(http://www.kernel-panic.org/book.gif); 
+        background-image: url(../../book.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3292,7 +3292,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-bookreview a:hover,
     #portlet-navigation-tree .contenttype-bookreview a:hover,
     #portlet-navigation-tree .contenttype-bookreview a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/book.gif);
+        background-image: url(../../book.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3310,7 +3310,7 @@ div.portletFooter {
     }
         .contenttype-contentpanels,
     .actionMenu .contenttype-contentpanels a:hover { 
-        background-image: url(http://www.kernel-panic.org/contentpanels_icon.gif); 
+        background-image: url(../../contentpanels_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3321,7 +3321,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-contentpanels a:hover,
     #portlet-navigation-tree .contenttype-contentpanels a:hover,
     #portlet-navigation-tree .contenttype-contentpanels a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/contentpanels_icon.gif);
+        background-image: url(../../contentpanels_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3339,7 +3339,7 @@ div.portletFooter {
     }
         .contenttype-discussion-item,
     .actionMenu .contenttype-discussion-item a:hover { 
-        background-image: url(http://www.kernel-panic.org/discussionitem_icon.gif); 
+        background-image: url(../../discussionitem_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3350,7 +3350,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-discussion-item a:hover,
     #portlet-navigation-tree .contenttype-discussion-item a:hover,
     #portlet-navigation-tree .contenttype-discussion-item a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/discussionitem_icon.gif);
+        background-image: url(../../discussionitem_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3368,7 +3368,7 @@ div.portletFooter {
     }
         .contenttype-document,
     .actionMenu .contenttype-document a:hover { 
-        background-image: url(http://www.kernel-panic.org/document_icon.gif); 
+        background-image: url(../../document_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3379,7 +3379,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-document a:hover,
     #portlet-navigation-tree .contenttype-document a:hover,
     #portlet-navigation-tree .contenttype-document a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/document_icon.gif);
+        background-image: url(../../document_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3397,7 +3397,7 @@ div.portletFooter {
     }
         .contenttype-event,
     .actionMenu .contenttype-event a:hover { 
-        background-image: url(http://www.kernel-panic.org/event_icon.gif); 
+        background-image: url(../../event_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3408,7 +3408,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-event a:hover,
     #portlet-navigation-tree .contenttype-event a:hover,
     #portlet-navigation-tree .contenttype-event a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/event_icon.gif);
+        background-image: url(../../event_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3426,7 +3426,7 @@ div.portletFooter {
     }
         .contenttype-favorite,
     .actionMenu .contenttype-favorite a:hover { 
-        background-image: url(http://www.kernel-panic.org/favorite_icon.gif); 
+        background-image: url(../../favorite_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3437,7 +3437,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-favorite a:hover,
     #portlet-navigation-tree .contenttype-favorite a:hover,
     #portlet-navigation-tree .contenttype-favorite a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/favorite_icon.gif);
+        background-image: url(../../favorite_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3455,7 +3455,7 @@ div.portletFooter {
     }
         .contenttype-file,
     .actionMenu .contenttype-file a:hover { 
-        background-image: url(http://www.kernel-panic.org/file_icon.gif); 
+        background-image: url(../../file_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3466,7 +3466,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-file a:hover,
     #portlet-navigation-tree .contenttype-file a:hover,
     #portlet-navigation-tree .contenttype-file a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/file_icon.gif);
+        background-image: url(../../file_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3484,7 +3484,7 @@ div.portletFooter {
     }
         .contenttype-folder,
     .actionMenu .contenttype-folder a:hover { 
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif); 
+        background-image: url(../../folder_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3495,7 +3495,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-folder a:hover,
     #portlet-navigation-tree .contenttype-folder a:hover,
     #portlet-navigation-tree .contenttype-folder a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif);
+        background-image: url(../../folder_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3513,7 +3513,7 @@ div.portletFooter {
     }
         .contenttype-image,
     .actionMenu .contenttype-image a:hover { 
-        background-image: url(http://www.kernel-panic.org/image_icon.gif); 
+        background-image: url(../../image_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3524,7 +3524,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-image a:hover,
     #portlet-navigation-tree .contenttype-image a:hover,
     #portlet-navigation-tree .contenttype-image a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/image_icon.gif);
+        background-image: url(../../image_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3542,7 +3542,7 @@ div.portletFooter {
     }
         .contenttype-large-plone-folder,
     .actionMenu .contenttype-large-plone-folder a:hover { 
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif); 
+        background-image: url(../../folder_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3553,7 +3553,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-large-plone-folder a:hover,
     #portlet-navigation-tree .contenttype-large-plone-folder a:hover,
     #portlet-navigation-tree .contenttype-large-plone-folder a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif);
+        background-image: url(../../folder_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3571,7 +3571,7 @@ div.portletFooter {
     }
         .contenttype-link,
     .actionMenu .contenttype-link a:hover { 
-        background-image: url(http://www.kernel-panic.org/link_icon.gif); 
+        background-image: url(../../link_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3582,7 +3582,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-link a:hover,
     #portlet-navigation-tree .contenttype-link a:hover,
     #portlet-navigation-tree .contenttype-link a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/link_icon.gif);
+        background-image: url(../../link_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3600,7 +3600,7 @@ div.portletFooter {
     }
         .contenttype-news-item,
     .actionMenu .contenttype-news-item a:hover { 
-        background-image: url(http://www.kernel-panic.org/newsitem_icon.gif); 
+        background-image: url(../../newsitem_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3611,7 +3611,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-news-item a:hover,
     #portlet-navigation-tree .contenttype-news-item a:hover,
     #portlet-navigation-tree .contenttype-news-item a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/newsitem_icon.gif);
+        background-image: url(../../newsitem_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3629,7 +3629,7 @@ div.portletFooter {
     }
         .contenttype-photo,
     .actionMenu .contenttype-photo a:hover { 
-        background-image: url(http://www.kernel-panic.org/photo_icon.gif); 
+        background-image: url(../../photo_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3640,7 +3640,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-photo a:hover,
     #portlet-navigation-tree .contenttype-photo a:hover,
     #portlet-navigation-tree .contenttype-photo a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/photo_icon.gif);
+        background-image: url(../../photo_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3658,7 +3658,7 @@ div.portletFooter {
     }
         .contenttype-photo-album,
     .actionMenu .contenttype-photo-album a:hover { 
-        background-image: url(http://www.kernel-panic.org/photoalbum_icon.gif); 
+        background-image: url(../../photoalbum_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3669,7 +3669,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-photo-album a:hover,
     #portlet-navigation-tree .contenttype-photo-album a:hover,
     #portlet-navigation-tree .contenttype-photo-album a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/photoalbum_icon.gif);
+        background-image: url(../../photoalbum_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3687,7 +3687,7 @@ div.portletFooter {
     }
         .contenttype-plone-site,
     .actionMenu .contenttype-plone-site a:hover { 
-        background-image: url(http://www.kernel-panic.org/site_icon.gif); 
+        background-image: url(../../site_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3698,7 +3698,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-plone-site a:hover,
     #portlet-navigation-tree .contenttype-plone-site a:hover,
     #portlet-navigation-tree .contenttype-plone-site a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/site_icon.gif);
+        background-image: url(../../site_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3716,7 +3716,7 @@ div.portletFooter {
     }
         .contenttype-topic,
     .actionMenu .contenttype-topic a:hover { 
-        background-image: url(http://www.kernel-panic.org/topic_icon.gif); 
+        background-image: url(../../topic_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3727,7 +3727,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-topic a:hover,
     #portlet-navigation-tree .contenttype-topic a:hover,
     #portlet-navigation-tree .contenttype-topic a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/topic_icon.gif);
+        background-image: url(../../topic_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3745,7 +3745,7 @@ div.portletFooter {
     }
         .contenttype-weblog,
     .actionMenu .contenttype-weblog a:hover { 
-        background-image: url(http://www.kernel-panic.org/weblog_icon.gif); 
+        background-image: url(../../weblog_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3756,7 +3756,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-weblog a:hover,
     #portlet-navigation-tree .contenttype-weblog a:hover,
     #portlet-navigation-tree .contenttype-weblog a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/weblog_icon.gif);
+        background-image: url(../../weblog_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3774,7 +3774,7 @@ div.portletFooter {
     }
         .contenttype-weblogarchive,
     .actionMenu .contenttype-weblogarchive a:hover { 
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif); 
+        background-image: url(../../folder_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3785,7 +3785,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-weblogarchive a:hover,
     #portlet-navigation-tree .contenttype-weblogarchive a:hover,
     #portlet-navigation-tree .contenttype-weblogarchive a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif);
+        background-image: url(../../folder_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3803,7 +3803,7 @@ div.portletFooter {
     }
         .contenttype-weblogdrafts,
     .actionMenu .contenttype-weblogdrafts a:hover { 
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif); 
+        background-image: url(../../folder_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3814,7 +3814,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-weblogdrafts a:hover,
     #portlet-navigation-tree .contenttype-weblogdrafts a:hover,
     #portlet-navigation-tree .contenttype-weblogdrafts a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/folder_icon.gif);
+        background-image: url(../../folder_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3832,7 +3832,7 @@ div.portletFooter {
     }
         .contenttype-weblogentry,
     .actionMenu .contenttype-weblogentry a:hover { 
-        background-image: url(http://www.kernel-panic.org/weblogentry_icon.gif); 
+        background-image: url(../../weblogentry_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3843,7 +3843,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-weblogentry a:hover,
     #portlet-navigation-tree .contenttype-weblogentry a:hover,
     #portlet-navigation-tree .contenttype-weblogentry a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/weblogentry_icon.gif);
+        background-image: url(../../weblogentry_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3861,7 +3861,7 @@ div.portletFooter {
     }
         .contenttype-weblogtopic,
     .actionMenu .contenttype-weblogtopic a:hover { 
-        background-image: url(http://www.kernel-panic.org/document_icon.gif); 
+        background-image: url(../../document_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3872,7 +3872,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-weblogtopic a:hover,
     #portlet-navigation-tree .contenttype-weblogtopic a:hover,
     #portlet-navigation-tree .contenttype-weblogtopic a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/document_icon.gif);
+        background-image: url(../../document_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3890,7 +3890,7 @@ div.portletFooter {
     }
         .contenttype-wiki-page,
     .actionMenu .contenttype-wiki-page a:hover { 
-        background-image: url(http://www.kernel-panic.org/wikipage_icon.gif); 
+        background-image: url(../../wikipage_icon.gif); 
         background-repeat: no-repeat; 
         background-position: 0% 0%;
     }
@@ -3901,7 +3901,7 @@ div.portletFooter {
     #portal-sitemap .contenttype-wiki-page a:hover,
     #portlet-navigation-tree .contenttype-wiki-page a:hover,
     #portlet-navigation-tree .contenttype-wiki-page a.navTreeCurrentItem {
-        background-image: url(http://www.kernel-panic.org/wikipage_icon.gif);
+        background-image: url(../../wikipage_icon.gif);
         background-repeat: no-repeat;
         background-position: 0% 3px;
     }
@@ -3919,92 +3919,92 @@ div.portletFooter {
     }
   
     .actionicon-plone-sendto { 
-        background-image: url(http://www.kernel-panic.org/mail_icon.gif) !important; 
+        background-image: url(../../mail_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-print { 
-        background-image: url(http://www.kernel-panic.org/print_icon.gif) !important; 
+        background-image: url(../../print_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-rss { 
-        background-image: url(http://www.kernel-panic.org/rss.gif) !important; 
+        background-image: url(../../rss.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-extedit { 
-        background-image: url(http://www.kernel-panic.org/extedit_icon.gif) !important; 
+        background-image: url(../../extedit_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-addtofavorites { 
-        background-image: url(http://www.kernel-panic.org/site_icon.gif) !important; 
+        background-image: url(../../site_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-QuickInstaller { 
-        background-image: url(http://www.kernel-panic.org/product_icon.gif) !important; 
+        background-image: url(../../product_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-PloneReconfig { 
-        background-image: url(http://www.kernel-panic.org/logoIcon.gif) !important; 
+        background-image: url(../../logoIcon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-UsersGroups { 
-        background-image: url(http://www.kernel-panic.org/group.gif) !important; 
+        background-image: url(../../group.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-UsersGroups2 { 
-        background-image: url(http://www.kernel-panic.org/group.gif) !important; 
+        background-image: url(../../group.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-MemberPrefs { 
-        background-image: url(http://www.kernel-panic.org/user.gif) !important; 
+        background-image: url(../../user.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-MemberPassword { 
-        background-image: url(http://www.kernel-panic.org/lock_icon.gif) !important; 
+        background-image: url(../../lock_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-MailHost { 
-        background-image: url(http://www.kernel-panic.org/mail_icon.gif) !important; 
+        background-image: url(../../mail_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-PortalSkin { 
-        background-image: url(http://www.kernel-panic.org/skins_icon.gif) !important; 
+        background-image: url(../../skins_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-errorLog { 
-        background-image: url(http://www.kernel-panic.org/error_log_icon.gif) !important; 
+        background-image: url(../../error_log_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-ZMI { 
-        background-image: url(http://www.kernel-panic.org/zope_icon.gif) !important; 
+        background-image: url(../../zope_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-site_actions-small_text { 
-        background-image: url(http://www.kernel-panic.org/textsize_small.gif) !important; 
+        background-image: url(../../textsize_small.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-site_actions-normal_text { 
-        background-image: url(http://www.kernel-panic.org/textsize_normal.gif) !important; 
+        background-image: url(../../textsize_normal.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-site_actions-large_text { 
-        background-image: url(http://www.kernel-panic.org/textsize_large.gif) !important; 
+        background-image: url(../../textsize_large.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
@@ -4014,82 +4014,82 @@ div.portletFooter {
         background-position: 0% 50%;
     }
     .actionicon-plone-full_screen { 
-        background-image: url(http://www.kernel-panic.org/fullscreenexpand_icon.gif) !important; 
+        background-image: url(../../fullscreenexpand_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-SearchSettings { 
-        background-image: url(http://www.kernel-panic.org/search_icon.gif) !important; 
+        background-image: url(../../search_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-NavigationSettings { 
-        background-image: url(http://www.kernel-panic.org/navigation_icon.gif) !important; 
+        background-image: url(../../navigation_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-object_buttons-cut { 
-        background-image: url(http://www.kernel-panic.org/cut_icon.gif) !important; 
+        background-image: url(../../cut_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-object_buttons-copy { 
-        background-image: url(http://www.kernel-panic.org/copy_icon.gif) !important; 
+        background-image: url(../../copy_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-object_buttons-paste { 
-        background-image: url(http://www.kernel-panic.org/paste_icon.gif) !important; 
+        background-image: url(../../paste_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-object_buttons-delete { 
-        background-image: url(http://www.kernel-panic.org/delete_icon.gif) !important; 
+        background-image: url(../../delete_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-portal_atct { 
-        background-image: url(http://www.kernel-panic.org/topic_icon.gif) !important; 
+        background-image: url(../../topic_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-ics { 
-        background-image: url(http://www.kernel-panic.org/icon_export_ical.png) !important; 
+        background-image: url(../../icon_export_ical.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-vcs { 
-        background-image: url(http://www.kernel-panic.org/icon_export_vcal.png) !important; 
+        background-image: url(../../icon_export_vcal.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-rotate_clockwise { 
-        background-image: url(http://www.kernel-panic.org/icon_rotate_clockwise.png) !important; 
+        background-image: url(../../icon_rotate_clockwise.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-rotate_counter_clockwise { 
-        background-image: url(http://www.kernel-panic.org/icon_rotate_counter_clockwise.png) !important; 
+        background-image: url(../../icon_rotate_counter_clockwise.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-rotate_180 { 
-        background-image: url(http://www.kernel-panic.org/icon_rotate_180.png) !important; 
+        background-image: url(../../icon_rotate_180.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-flip_horizontal { 
-        background-image: url(http://www.kernel-panic.org/icon_flip_horizontal.png) !important; 
+        background-image: url(../../icon_flip_horizontal.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-plone-flip_vertical { 
-        background-image: url(http://www.kernel-panic.org/icon_flip_vertical.png) !important; 
+        background-image: url(../../icon_flip_vertical.png) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }
     .actionicon-controlpanel-kupu { 
-        background-image: url(http://www.kernel-panic.org/kupuimages/kupu_icon.gif) !important; 
+        background-image: url(../../kupuimages/kupu_icon.gif) !important; 
         background-repeat: no-repeat; 
         background-position: 0% 50%;
     }

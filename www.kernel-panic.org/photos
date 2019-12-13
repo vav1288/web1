@@ -6,7 +6,7 @@
       lang="en">
 
   <head>
-<base href="http://www.kernel-panic.org/photos/" />
+<base href="" />
 
     <meta http-equiv="Content-Type"
           content="text/html;charset=utf-8" />
@@ -34,7 +34,7 @@
         
             
                 <script type="text/javascript"
-                        src="http://www.kernel-panic.org/portal_javascripts/Plone%20Default/ploneScripts4128.js">
+                        src="portal_javascripts/Plone&#32;Default/ploneScripts4128.js">
                 </script>
                 
             
@@ -50,7 +50,7 @@
                 
                     
                     
-                        <style type="text/css"><!-- @import url(http://www.kernel-panic.org/portal_css/Plone%20Default/ploneStyles0407.css); --></style>
+                        <style type="text/css"><!-- @import url(portal_css/Plone Default/ploneStyles0407.css); --></style>
                     
                     
                 
@@ -59,7 +59,7 @@
                 
                     <link rel="alternate stylesheet"
                           type="text/css" media="screen"
-                          href="http://www.kernel-panic.org/portal_css/Plone%20Default/ploneStyles1262.css"
+                          href="portal_css/Plone&#32;Default/ploneStyles1262.css"
                           title="Small Text" />
                     
                     
@@ -69,7 +69,7 @@
                 
                     <link rel="alternate stylesheet"
                           type="text/css" media="screen"
-                          href="http://www.kernel-panic.org/portal_css/Plone%20Default/ploneStyles2852.css"
+                          href="portal_css/Plone&#32;Default/ploneStyles2852.css"
                           title="Large Text" />
                     
                     
@@ -79,7 +79,7 @@
                 
                     
                     
-                        <style type="text/css" media="all"><!-- @import url(http://www.kernel-panic.org/portal_css/Plone%20Default/ploneStyles0092.css); --></style>
+                        <style type="text/css" media="all"><!-- @import url(portal_css/Plone Default/ploneStyles0092.css); --></style>
                     
                     
                 
@@ -88,7 +88,7 @@
                 
                     
                     
-                        <style type="text/css" media="all"><!-- @import url(http://www.kernel-panic.org/portal_css/Plone%20Default/ploneStyles2822.css); --></style>
+                        <style type="text/css" media="all"><!-- @import url(portal_css/Plone Default/ploneStyles2822.css); --></style>
                     
                     
                 
@@ -105,25 +105,25 @@
     <![endif]-->
 
     <link rel="shortcut icon" type="image/x-icon"
-          href="http://www.kernel-panic.org/favicon.ico" />
+          href="favicon.ico" />
 
-    <link rel="home" href="http://www.kernel-panic.org"
+    <link rel="home" href="index.html"
           title="Front page" />
     <link rel="search"
-          href="http://www.kernel-panic.org/search_form"
+          href="search_form"
           title="Search this site" />
     <link rel="author"
-          href="http://www.kernel-panic.org/author/chef"
+          href="author/chef"
           title="Author information" />
     <link rel="contents"
-          href="http://www.kernel-panic.org/sitemap"
+          href="sitemap"
           title="Site Map" />
 
     
 
     
 
-    <link rel="up" href="http://www.kernel-panic.org"
+    <link rel="up" href="index.html"
           title="Up one level" />
 
     
@@ -134,7 +134,7 @@
     
       
       
-    <style type="text/css" media="screen"> @import url(http://www.kernel-panic.org/photoalbum.css);</style>
+    <style type="text/css" media="screen"> @import url(photoalbum.css);</style>
     
     
 
@@ -165,18 +165,18 @@
 
         <div id="portal-header">
           <a class="hiddenStructure" accesskey="2"
-             href="http://www.kernel-panic.org/photos#documentContent">Skip to content.</a>
+             href="photos#documentContent">Skip to content.</a>
 
           <a class="hiddenStructure" accesskey="6"
-             href="http://www.kernel-panic.org/photos#portlet-navigation-tree">Skip to navigation</a>
+             href="photos#portlet-navigation-tree">Skip to navigation</a>
 
              <ul id="portal-siteactions">
 
     <li id="siteaction-sitemap"><a
-    href="http://www.kernel-panic.org/sitemap" accesskey="3"
+    href="sitemap" accesskey="3"
     title="Site Map">Site Map</a></li>
     <li id="siteaction-accessibility"><a
-    href="http://www.kernel-panic.org/accessibility-info"
+    href="accessibility-info"
     accesskey="0" title="Accessibility">Accessibility</a></li>
     <li id="siteaction-contact"><a
     href="http://www.kernel-panic.org/contact-info"
@@ -205,7 +205,7 @@
     </form>
 
     <div id="portal-advanced-search" class="hiddenStructure">
-        <a href="http://www.kernel-panic.org/search_form"
+        <a href="search_form"
            accesskey="5">
             Advanced Search&hellip;
         </a>
@@ -214,7 +214,7 @@
 </div>
 
              <h1 id="portal-logo">
-    <a href="http://www.kernel-panic.org" accesskey="1"></a>
+    <a href="index.html" accesskey="1"></a>
 </h1>
 
              <div id="portal-skinswitcher">
@@ -226,7 +226,7 @@
 
     <ul id="portal-globalnav">
         <li id="portaltab-index_html" class="selected">
-            <a href="http://www.kernel-panic.org">Home</a></li>
+            <a href="index.html">Home</a></li>
         <li id="portaltab-events" class="plain">
             <a href="http://www.kernel-panic.org/events">Events</a></li>
         <li id="portaltab-wiki" class="plain">
@@ -244,7 +244,7 @@
 
     
         <li>
-            <a href="http://www.kernel-panic.org/login_form">
+            <a href="login_form">
                Log in
             </a>
         </li>
@@ -264,7 +264,7 @@
 
     <span id="breadcrumbs-you-are-here">You 
 are here:</span>
-    <a href="http://www.kernel-panic.org">Home</a>
+    <a href="index.html">Home</a>
     <span class="breadcrumbSeparator">
         &rarr; 
          
@@ -304,7 +304,7 @@ are here:</span>
         <span class="portletTopLeft"></span>
         
         
-        <a href="http://www.kernel-panic.org/sitemap"
+        <a href="sitemap"
            class="tile">Navigation</a>
 
            
@@ -317,7 +317,7 @@ are here:</span>
               <li class="navTreeItem">
                    <div class="contenttype-plone-site">
                        <a class="visualIconPadding"
-                          href="http://www.kernel-panic.org"
+                          href="index.html"
                           title="">
                        Home
                        </a>
@@ -354,7 +354,7 @@ are here:</span>
     <div class="contenttype-folder">
         
         
-        <a href="http://www.kernel-panic.org/contact"
+        <a href="contact"
            class="state-published visualIconPadding"
            title="">Contact KPLUG</a>
         
@@ -408,7 +408,7 @@ are here:</span>
     <div class="contenttype-topic">
         
         
-        <a href="http://www.kernel-panic.org/jobs-1"
+        <a href="jobs-1"
            class="state-published visualIconPadding"
            title="">Jobs</a>
         
@@ -480,7 +480,7 @@ are here:</span>
     <div class="contenttype-topic">
         
         
-        <a href="http://www.kernel-panic.org/news"
+        <a href="news"
            class="state-published visualIconPadding"
            title="Site News">News</a>
         
@@ -496,7 +496,7 @@ are here:</span>
     
 
     <div class="contenttype-photo-album">
-        <a href="http://www.kernel-panic.org/photos"
+        <a href="photos"
            class="state-published navTreeCurrentItem visualIconPadding"
            title="Photos and other images from KPLUG">Photos</a>
         
@@ -615,13 +615,13 @@ are here:</span>
 
     <dt class="portletHeader">
         <span class="portletTopLeft"></span>
-        <a href="http://www.kernel-panic.org/login_form"
+        <a href="login_form"
            class="tile">Log in</a>
         <span class="portletTopRight"></span>
     </dt>
 
     <dd class="portletItem odd">
-        <form action="http://www.kernel-panic.org/login_form"
+        <form action="login_form"
               name="loginform" method="post">
 
             <input type="hidden" name="form.submitted" value="1" />
@@ -654,7 +654,7 @@ are here:</span>
 
             <div id="cookies_message" class="portalMessage"
                  style="display:none">
-                Cookies are not enabled. You must <a href="enabling_cookies">enable cookies</a> before you can log in.
+                Cookies are not enabled. You must <a href="http://www.kernel-panic.org/photos/enabling_cookies">enable cookies</a> before you can log in.
             </div>
             
             <div class="formControls">
@@ -668,9 +668,9 @@ are here:</span>
     </dd>
     
     <dd class="portletItem even">
-        <a href="http://www.kernel-panic.org/mail_password_form"
+        <a href="mail_password_form"
            class="tile">
-           <img src="http://www.kernel-panic.org/info_icon.gif" alt="" title="" height="16" width="16" />
+           <img src="info_icon.gif" alt="" title="" height="16" width="16" />
            Forgot your password?
         </a>
     </dd>
@@ -678,7 +678,7 @@ are here:</span>
     <dd class="portletItem lastItem">
         <a href="http://www.kernel-panic.org/join_form"
            class="tile">
-            <img src="http://www.kernel-panic.org/user.gif" alt="" title="User" height="16" width="16" />
+            <img src="user.gif" alt="" title="User" height="16" width="16" />
             New user?
         </a>
         <span class="portletBottomLeft"></span>
@@ -748,7 +748,7 @@ are here:</span>
         <li>
             <a href="http://www.kernel-panic.org/photos/sendto_form">
 
-                <img src="http://www.kernel-panic.org/mail_icon.gif"
+                <img src="mail_icon.gif"
                      alt="Send this page to somebody"
                      title="Send this page to somebody"
                      id="icon-sendto" />
@@ -759,7 +759,7 @@ are here:</span>
         <li>
             <a href="javascript:this.print();">
 
-                <img src="http://www.kernel-panic.org/print_icon.gif"
+                <img src="print_icon.gif"
                      alt="Print this page"
                      title="Print this page" id="icon-print" />
             </a>
@@ -784,7 +784,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/Expo98/view">
-		          <img src="http://www.kernel-panic.org/photos/Expo98/nesting_gentoo.gif/variant/thumbnail" alt="" title="Pictures from the California Computer Expo '98" height="128" width="123" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/Expo98/980819_06.gif/variant/thumbnail" alt="Microsoft was right across the aisle from KPLUG" title="Pictures from the California Computer Expo '98" height="96" width="128" border="0" />
 		      </a>
 	          
           </dt>
@@ -799,7 +799,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/expo99/view">
-		          <img src="http://www.kernel-panic.org/photos/expo99/r0100096.jpg/variant/thumbnail" alt="" title="" height="96" width="128" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/expo99/r0100078.jpg/variant/thumbnail" alt="" title="" height="96" width="128" border="0" />
 		      </a>
 	          
           </dt>
@@ -814,7 +814,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/installfests/view">
-		          <img src="http://www.kernel-panic.org/photos/installfests/Deep_Discussion_Carl_Neil_Darrel_Stu.jpeg/variant/thumbnail" alt="Karl Neil Darrel and Stu in deep discussion" title="" height="96" width="128" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/installfests/installfest2.jpeg/variant/thumbnail" alt="Everybody is having a good time" title="" height="96" width="128" border="0" />
 		      </a>
 	          
           </dt>
@@ -829,7 +829,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/memeberpics/view">
-		          <img src="http://www.kernel-panic.org/photos/memeberpics/georgegeorgalis/variant/thumbnail" alt="George Georgalis" title="" height="128" width="104" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/memeberpics/gwirth/variant/thumbnail" alt="Gus Wirth" title="" height="128" width="107" border="0" />
 		      </a>
 	          
           </dt>
@@ -844,7 +844,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/oscon/view">
-		          <img src="http://www.kernel-panic.org/photos/oscon/oscon-035.jpg/variant/thumbnail" alt="" title="Pictures from the O'Reilly Open Source Convention in San Diego July 25, 2001" height="84" width="128" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/oscon/oscon-032.jpg/variant/thumbnail" alt="" title="Pictures from the O'Reilly Open Source Convention in San Diego July 25, 2001" height="84" width="128" border="0" />
 		      </a>
 	          
           </dt>
@@ -859,7 +859,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/picnic2002/view">
-		          <img src="http://www.kernel-panic.org/photos/picnic2002/p9284679.jpg/variant/thumbnail" alt="Good conversation" title="Pictures from the &quot;annual&quot; KPLUG picnic 2002 " height="96" width="128" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/picnic2002/p9284716.jpg/variant/thumbnail" alt="Jump-rope is fun!!" title="Pictures from the &quot;annual&quot; KPLUG picnic 2002 " height="96" width="128" border="0" />
 		      </a>
 	          
           </dt>
@@ -889,7 +889,7 @@ are here:</span>
       <dl>
           <dt>
 		      <a href="http://www.kernel-panic.org/photos/uchug/view">
-		          <img src="http://www.kernel-panic.org/photos/uchug/mvc_004f.jpg/variant/thumbnail" alt="KPLUG members at UCHUG" title="" height="96" width="128" border="0" />
+		          <img src="http://www.kernel-panic.org/photos/uchug/mvc_008f.jpg/variant/thumbnail" alt="Mutt 'n Jeff" title="" height="96" width="128" border="0" />
 		      </a>
 	          
           </dt>

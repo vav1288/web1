@@ -1,0 +1,71 @@
+
+<HTML>
+<HEAD>
+<LINK REL="SHORTCUT ICON" HREF="../../images/mailman/mm-icon.png">
+<META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<TITLE>www.kernel-panic.org mailing lists - Admin Links</TITLE>
+</HEAD>
+<BODY bgcolor="white">
+
+<table WIDTH="100%" BORDER="0">
+  <tr>
+    <td COLSPAN="2" BGCOLOR="#99ccff"><center><h2>www.kernel-panic.org mailing lists - Admin Links</h2></center></td>
+  </tr>
+  <tr>
+    <td COLSPAN="2">Welcome!<p>Below is the collection of publicly-advertised
+            <a href="http://www.gnu.org/software/mailman/index.html">Mailman</a> mailing lists on www.kernel-panic.org.  Click on a list
+            name to visit the configuration pages for that list.To visit the administrators configuration page for an
+        unadvertised list, open a URL similar to this one, but with a '/' and
+        the list name appended.  If you have the proper authority,
+        you can also <a href="http://www.kernel-panic.org/cgi-bin/mailman/create">create a new mailing list</a>.
+
+        <p>General list information can be found at <a href="listinfo">the mailing list overview page</a>.<p>(Send questions and comments to <a href="mailto:mailman@kernel-panic.org">mailman@kernel-panic.org</a>.)<p></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong><font size="+2">List</font></strong></td>
+    <td><strong><font size="+2">Description</font></strong></td>
+  </tr>
+  <tr BGCOLOR="#dddddd">
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-announce"><strong>KPLUG-Announce</strong></a></td>
+    <td>Official Announcements about KPLUG Events</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-kooler"><strong>KPLUG-Kooler</strong></a></td>
+    <td>Kooler Discussion - for offtopic threads</td>
+  </tr>
+  <tr BGCOLOR="#dddddd">
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-list"><strong>KPLUG-List</strong></a></td>
+    <td>Main Discussion List for KPLUG</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-lpsg"><strong>KPLUG-LPSG</strong></a></td>
+    <td>Linux Programming Study Group Discussion</td>
+  </tr>
+  <tr BGCOLOR="#dddddd">
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-newbie"><strong>KPLUG-Newbie</strong></a></td>
+    <td>Friendly list for people new to Linux</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-security"><strong>KPLUG-Security</strong></a></td>
+    <td>Special list for security-related discussion</td>
+  </tr>
+  <tr BGCOLOR="#dddddd">
+    <td><a href="http://www.kernel-panic.org/cgi-bin/mailman/admin/kplug-steer"><strong>KPLUG-Steer</strong></a></td>
+    <td>KPLUG Steering Committee</td>
+  </tr>
+</table>
+<hr>
+<table WIDTH="100%" BORDER="0">
+  <tr>
+    <td><img src="../../images/mailman/mailman.jpg" alt="Delivered by Mailman" border=0><br>version 2.1.5</td>
+    <td><img src="../../images/mailman/PythonPowered.png" alt="Python Powered" border=0></td>
+    <td><img src="../../images/mailman/gnu-head-tiny.jpg" alt="GNU's Not Unix" border=0></td>
+  </tr>
+</table>
+
+</BODY>
+</HTML>

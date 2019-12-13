@@ -1,0 +1,1299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+      lang="en">
+
+  <head>
+    <meta http-equiv="Content-Type"
+          content="text/html;charset=utf-8" />
+
+    <title>
+        GeneralQuestionsAboutLinux
+        &mdash;
+        
+    </title>
+
+    
+      
+        <base href="" />
+      
+    
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    <meta content="Why should I choose to use Linux in my business? --
+  &quot;Read up on the features and benfits of Linux&quot;:FeaturesBenefits"
+          name="description" />
+
+    <!-- Plone ECMAScripts -->
+    
+      
+        
+            
+                <script type="text/javascript"
+                        src="../portal_javascripts/Plone&#32;Default/ploneScripts4128.js">
+                </script>
+                
+            
+        
+    
+    
+
+    
+	
+          
+        
+            
+                
+                    
+                    
+                        <style type="text/css"><!-- @import url(../portal_css/Plone Default/ploneStyles0407.css); --></style>
+                    
+                    
+                
+            
+            
+                
+                    <link rel="alternate stylesheet"
+                          type="text/css" media="screen"
+                          href="../portal_css/Plone&#32;Default/ploneStyles1262.css"
+                          title="Small Text" />
+                    
+                    
+                
+            
+            
+                
+                    <link rel="alternate stylesheet"
+                          type="text/css" media="screen"
+                          href="../portal_css/Plone&#32;Default/ploneStyles2852.css"
+                          title="Large Text" />
+                    
+                    
+                
+            
+            
+                
+                    
+                    
+                        <style type="text/css" media="all"><!-- @import url(../portal_css/Plone Default/ploneStyles0092.css); --></style>
+                    
+                    
+                
+            
+            
+                
+                    
+                    
+                        <style type="text/css" media="all"><!-- @import url(../portal_css/Plone Default/ploneStyles2822.css); --></style>
+                    
+                    
+                
+            
+        
+    
+        
+        
+    
+
+    <!-- Internet Explorer CSS Fixes -->
+    <!--[if lt IE 7]>
+        <style type="text/css" media="all">@import url(http://www.kernel-panic.org/IEFixes.css);</style>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon"
+          href="../favicon.ico" />
+
+    <link rel="home" href="../index.html"
+          title="Front page" />
+    <link rel="search"
+          href="../search_form"
+          title="Search this site" />
+    <link rel="author"
+          href="../author/index.html"
+          title="Author information" />
+    <link rel="contents"
+          href="../sitemap"
+          title="Site Map" />
+
+    
+
+    
+
+    <link rel="up" href="http://www.kernel-panic.org/wiki"
+          title="Up one level" />
+
+    
+
+    <!-- Disable IE6 image toolbar -->
+    <meta http-equiv="imagetoolbar" content="no" />
+
+    
+      
+      
+      
+      <style type="text/css">
+        <!-- .documentActions {margin-top:0} /* fix layout in plone 2.0 */-->
+      </style>
+    
+    
+
+    
+
+      
+    
+    
+    
+    
+
+
+      
+      
+    
+    <meta name="keywords"
+          content="General Questions About Linux" />
+    <meta name="description"
+          content="Why should I choose to use Linux in my business? --
+  &quot;Read up on the features and benfits of Linux&quot;:FeaturesBenefits" />
+  
+    
+      
+    
+
+    
+      
+      
+    
+
+  </head>
+
+  <body class="section-wiki" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+
+        <div id="portal-header">
+          <a class="hiddenStructure" accesskey="2"
+             href="GeneralQuestionsAboutLinux#documentContent">Skip to content.</a>
+
+          <a class="hiddenStructure" accesskey="6"
+             href="GeneralQuestionsAboutLinux#portlet-navigation-tree">Skip to navigation</a>
+
+             <ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a
+    href="../sitemap" accesskey="3"
+    title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a
+    href="../accessibility-info"
+    accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a
+    href="http://www.kernel-panic.org/contact-info"
+    accesskey="9" title="Contact">Contact</a></li>
+
+</ul>
+
+             <div id="portal-searchbox">
+    <form name="searchform"
+          action="http://www.kernel-panic.org/search"
+          style="white-space:nowrap"
+          onsubmit="return liveSearchSubmit()">
+
+        <label for="searchGadget" class="hiddenStructure">Search Site</label>
+
+        <div class="LSBox">
+        <input id="searchGadget" name="SearchableText"
+               type="text" size="15" title="Search Site"
+               accesskey="4" class="visibility:visible" />
+
+        <input class="searchButton" type="submit"
+               value="Search" />
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="../search_form"
+           accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+             <h1 id="portal-logo">
+    <a href="../index.html" accesskey="1"></a>
+</h1>
+
+             <div id="portal-skinswitcher">
+  
+</div>
+
+             
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav">
+        <li id="portaltab-index_html" class="plain">
+            <a href="../index.html">Home</a></li>
+        <li id="portaltab-events" class="plain">
+            <a href="http://www.kernel-panic.org/events">Events</a></li>
+        <li id="portaltab-wiki" class="selected">
+            <a href="http://www.kernel-panic.org/wiki">Wiki</a></li>
+    </ul>
+
+          </div>
+
+          <div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<ul id="portal-personaltools">
+   
+
+    
+        <li>
+            <a href="../login_form">
+               Log in
+            </a>
+        </li>
+    
+    
+        <li>
+            <a href="http://www.kernel-panic.org/join_form">
+               Join
+            </a>
+        </li>
+    
+
+</ul>
+</div>
+
+           <div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You 
+are here:</span>
+    <a href="../index.html">Home</a>
+    <span class="breadcrumbSeparator">
+        &rarr; 
+         
+    </span>
+    <span dir="ltr">
+        
+            <a href="http://www.kernel-panic.org/wiki">Wiki</a>
+            <span class="breadcrumbSeparator"> 
+                &rarr; 
+                 
+            </span>
+            
+         
+    </span>
+    <span dir="ltr">
+        
+            
+            
+            <span>GeneralQuestionsAboutLinux</span>
+         
+    </span>
+
+</div>
+      </div>
+
+      <div class="visualClear"><!-- --></div>
+
+      
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+            <td id="portal-column-one">
+              <div class="visualPadding">
+                
+                  
+
+    
+        
+
+        
+            
+       
+<dl class="portlet" id="portlet-navigation-tree">
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        
+        
+        <a href="../sitemap"
+           class="tile">Navigation</a>
+
+           
+        <span class="portletTopRight"></span>
+    </dt>
+    
+    <dd class="portletItem lastItem">
+        <ul class="portletNavigationTree navTreeLevel0">
+            
+              <li class="navTreeItem">
+                   <div class="contenttype-plone-site">
+                       <a class="visualIconPadding"
+                          href="../index.html"
+                          title="">
+                       Home
+                       </a>
+                   </div>
+               </li>
+               
+            
+            
+                
+                
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/books"
+           class="state-published visualIconPadding"
+           title="Book Reviews by KPLUG Members">Book Reviews</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="../contact"
+           class="state-published visualIconPadding"
+           title="">Contact KPLUG</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-topic">
+        
+        
+        <a href="http://www.kernel-panic.org/events"
+           class="state-published visualIconPadding"
+           title="Site Events">Events</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/groups"
+           class="state-published visualIconPadding"
+           title="Container for groups">Groups</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-topic">
+        
+        
+        <a href="../jobs-1"
+           class="state-published visualIconPadding"
+           title="">Jobs</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/meetings"
+           class="state-published visualIconPadding"
+           title="">Meetings</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-large-plone-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/Members"
+           class="state-published visualIconPadding"
+           title="Container for portal members' home directories">Members</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/raffles"
+           class="state-published visualIconPadding"
+           title="">Monthly Raffle</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-topic">
+        
+        
+        <a href="../news"
+           class="state-published visualIconPadding"
+           title="Site News">News</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-photo-album">
+        
+        
+        <a href="../photos"
+           class="state-published visualIconPadding"
+           title="Photos and other images from KPLUG">Photos</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/contrib"
+           class="state-published visualIconPadding"
+           title="This area is where you will find links to pages contributed by members of the Kernel-Panic Linux User Group. Some are here, because they don't fit neatly in one of the other categories. Some are pages created by members as part of their presentations at prior meeting. We hope you will find all of them useful.">User Contributed Files</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/wiki"
+           class="state-published visualIconPadding"
+           title="Collection of knowledge that our members have put together.">Wiki</a>
+        
+    </div>
+
+    <ul class="navTree navTreeLevel1">
+        
+
+
+
+
+
+
+
+
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker">
+
+    
+
+    <div class="contenttype-folder">
+        
+        
+        <a href="http://www.kernel-panic.org/installfest"
+           class="state-published visualIconPadding"
+           title="">Linux Lab</a>
+        
+    </div>
+
+    
+    
+</li>
+
+
+                
+            
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+
+        
+
+        
+
+        
+    
+    
+        
+
+        
+            
+
+<dl class="portlet" id="portlet-login">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="../login_form"
+           class="tile">Log in</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <form action="../login_form"
+              name="loginform" method="post">
+
+            <input type="hidden" name="form.submitted" value="1" />
+            <input type="hidden" name="came_from"
+                   value="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux" />
+            <input type="hidden" name="js_enabled" id="js_enabled" value="0" />
+            <input type="hidden" name="cookies_enabled" id="cookies_enabled" value="" />
+            <input type="hidden" name="login_name" id="login_name" value="" />
+            <input type="hidden" name="pwd_empty" id="pwd_empty" value="0" />
+
+            <div class="field">
+                <label for="__ac_name">Login Name</label>
+                <br />
+                <input type="text" size="10"
+                       alt="Login Name"
+                       onclick="showCookieMessage('cookies_message')"
+                       name="__ac_name" value=""
+                       id="__ac_name" />
+            </div>
+            
+            <div class="field">
+                <label for="__ac_password">Password</label>
+                <br />
+                <input type="password" size="10"
+                       alt="Password"
+                       onclick="showCookieMessage('cookies_message')"
+                       name="__ac_password"
+                       id="__ac_password" />
+            </div>
+
+            <div id="cookies_message" class="portalMessage"
+                 style="display:none">
+                Cookies are not enabled. You must <a href="enabling_cookies">enable cookies</a> before you can log in.
+            </div>
+            
+            <div class="formControls">
+            
+                <input class="context" type="submit"
+                       name="submit" value="Log in"
+                       alt="Log in"
+                       onclick="javascript:return setLoginVars('__ac_name','login_name','__ac_password','pwd_empty','js_enabled','cookies_enabled')" />
+            </div>
+        </form>
+    </dd>
+    
+    <dd class="portletItem even">
+        <a href="../mail_password_form"
+           class="tile">
+           <img src="../info_icon.gif" alt="" title="" height="16" width="16" />
+           Forgot your password?
+        </a>
+    </dd>
+    
+    <dd class="portletItem lastItem">
+        <a href="http://www.kernel-panic.org/join_form"
+           class="tile">
+            <img src="../user.gif" alt="" title="User" height="16" width="16" />
+            New user?
+        </a>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+
+
+
+
+
+
+
+
+        
+
+        
+
+        
+    
+    
+        
+
+        
+            
+        
+
+        
+
+        
+    
+
+                
+                &nbsp;
+              </div>
+            </td>
+            
+
+            
+            <td id="portal-column-content">
+
+              
+                <div id="content" class="documentEditable">
+
+                  
+                    
+
+        <h5 class="hiddenStructure">Views</h5>
+
+        <ul class="contentViews">
+
+            
+              <li id="contentview-view" class="selected">
+                <a href="GeneralQuestionsAboutLinux">View</a>
+              </li>
+            
+            
+              <li id="contentview-subscribe" class="plain">
+                <a href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/subscribeform">Subscribe</a>
+              </li>
+            
+
+        </ul>
+
+    
+
+                    <div class="contentActions">
+
+        <h5 class="hiddenStructure">Actions</h5>
+
+        <ul class="actionItems">
+            <li id="contentaction-recentchanges">
+              
+                <a class=""
+                   href="FrontPage/recentchanges">
+                
+                    
+                    
+                    Wiki changes
+                </a>
+                
+            </li>
+            <li id="contentaction-contents">
+              
+                <a class=""
+                   href="FrontPage/contents#GeneralQuestionsAboutLinux">
+                
+                    
+                    
+                    Wiki contents
+                </a>
+                
+            </li>
+            <li id="contentaction-backlinks">
+              
+                <a class=""
+                   href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/backlinks">
+                
+                    
+                    
+                    Related pages
+                </a>
+                
+            </li>
+            <li id="contentaction-history">
+              
+                <a class=""
+                   href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/diff">
+                
+                    
+                    
+                    History
+                </a>
+                
+            </li>
+        </ul>
+
+        
+
+<ul>
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+</ul>
+
+
+
+    </div>
+                  
+
+                  <div class="documentContent" id="region-content">
+
+                    <a name="documentContent"></a>
+
+                    
+
+                    
+
+                    
+      
+      <!-- always-available zwiki access keys -->
+      <a accesskey="f"
+         href="http://www.kernel-panic.org/wiki/FrontPage"></a>
+      <a accesskey="c"
+         href="FrontPage/contents#GeneralQuestionsAboutLinux"></a>
+      <a accesskey="r"
+         href="FrontPage/recentchanges"></a>
+      
+      
+      
+      
+      <a accesskey="o"
+         href="FrontPage/useroptions"></a>
+      
+      <a accesskey="-"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/setskin?skin=zwiki&amp;came_from=http%3A//www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux"></a>
+      <a accesskey="+"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/setskin?skin=plone&amp;came_from=http%3A//www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux"></a>
+      <a accesskey="v"
+         href="GeneralQuestionsAboutLinux"></a>
+      <a accesskey="m"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/subscribeform"></a>
+      <a accesskey="b"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/backlinks"></a>
+      <a accesskey="d"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/diff"></a>
+      <a accesskey="y"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/manage_change_history_page"></a>
+      <a accesskey="e"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/editform"></a>
+      <a accesskey="x"
+         href="http://www.kernel-panic.org/wiki/externalEdit_/GeneralQuestionsAboutLinux?borrow_lock=1"></a>
+      <a accesskey="n"
+         href="GettingHelp/setskin?skin=plone&amp;came_from=http:%252F%252Fwww.kernel-panic.org%252Fwiki%252FGettingHelp"></a>
+      <a accesskey="p"
+         href="http://www.kernel-panic.org/wiki/FileSystems"></a>
+      <a accesskey="u"
+         href="http://www.kernel-panic.org/wiki/FrontPage"></a>
+      <a accesskey="0"
+         href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/showAccessKeys"></a>
+    
+      <div class="pageheader">
+      <!-- page header -->
+      <form method="GET"
+            action="http://www.kernel-panic.org/wiki/FrontPage/searchwiki">
+        <table width="100%" border="0" cellspacing="0">
+          <tr>
+            <!-- logo -->
+            
+            <!-- page name and context (parent topics) -->
+            <td align="left" width="79%">
+              
+                <ul style="list-style:none; margin-left:0;" class="aqtree3clickable">
+ <li style="list-style:none" class="aqtree3clickable"><h1 style="display:inline;"><a href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/backlinks" title="which pages link to this one ?" name="GeneralQuestionsAboutLinux">GeneralQuestionsAboutLinux</a></h1> ...
+ </li>
+</ul>
+
+              
+              
+            </td>
+            <!-- search form & page info -->
+            <td class="searchbox" width="20%" align="right">
+              
+              
+                <span class="lasteditor">last edited  <a href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/diff" title="show last edit ()" >14 years</a> ago by <b>chef</b></span>
+                <div class="documentActions">
+    
+
+    <h5 class="hiddenStructure">Document Actions</h5>
+
+    <ul>
+    
+        <li>
+            <a href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/sendto_form">
+
+                <img src="../mail_icon.gif"
+                     alt="Send this page to somebody"
+                     title="Send this page to somebody"
+                     id="icon-sendto" />
+            </a>
+        </li>
+    
+    
+        <li>
+            <a href="javascript:this.print();">
+
+                <img src="../print_icon.gif"
+                     alt="Print this page"
+                     title="Print this page" id="icon-print" />
+            </a>
+        </li>
+    
+
+    </ul>
+    
+
+    
+
+</div>
+              
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+      <div align="right">  
+      <!-- page rating form -->
+      <div>
+        <a name="ratingform"></a>
+        <style type="text/css">
+          input.rating {border:none;}
+        </style>
+        <form method="POST" id="ratingform"
+              action="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/vote">
+           <input type="image" name="vote0" value="0"
+                  alt="0" class="rating" width="14"
+                  height="13" src="../p_/sp" style=""
+                  title="click to vote 0 (poor) for this page (0 votes)" /><input
+    type="image" name="vote1" value="1" alt="1"
+    class="rating" src="misc_/ZWiki/star_icon" style=""
+    title="click to vote 1 (average) for this page (0 votes)" /><input
+    type="image" name="vote2" value="2" alt="2"
+    class="rating" src="misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 2 (above average) for this page (0 votes)" /><input
+    type="image" name="vote3" value="3" alt="3"
+    class="rating" src="misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 3 (good) for this page (0 votes)" /><input
+    type="image" name="vote4" value="4" alt="4"
+    class="rating" src="misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 4 (great) for this page (0 votes)" /><input
+    type="image" name="vote5" value="5" alt="5"
+    class="rating" src="misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 5 (superb) for this page (0 votes)" />
+        </form>
+      </div>
+    </div>
+      <br />
+      <div class="content">
+      <!-- page content (main text, subtopics links, comments) -->
+      <!--
+      <div metal:use-macro="here/macros/maintext" />
+      <div metal:use-macro="here/macros/subtopics" />
+      <div metal:use-macro="here/macros/comments" />
+      -->
+      <dl>
+<dt>Why should I choose to use Linux in my business?</dt>
+<dd><a href="http://www.kernel-panic.org/wiki/FeaturesBenefits">Read up on the features and benfits of Linux</a></dd>
+<dt>Do I have to hate Microsoft to like Linux?</dt>
+<dd>No, but it helps. Many of the people who come to Linux do so because they are frustrated and annoyed with Microsoft.</dd>
+<dt>Where do I go to buy Software for Linux?</dt>
+<dd>[Linux Applications]<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=Linux%20Applications" title="create this page">?</a></dd>
+<dt>What is Linux's market share?</dt>
+<dd>This is a very difficult assesment to make, below are some references.<p>  [Answer here was deleted by googlebot-hijacking wiki-spammer]</p>
+<p>  "Linux will pose a significant threat to Microsoft for market share among server operating systems over the next few years, according to new research released today."</p>
+</dd>
+<dt><a href="http://news.com.com/2100-1001-253320.html?legacycnet">Linux growth underscores threat to Microsoft</a></dt>
+<dd>"Microsoft still holds the lion's share of the server operating system market, but Linux shipments grew slightly faster than Windows did last year, according to a new report."</dd>
+<dt><a href="http://www.business-linux.at/idc/linux.marketshare.html">Linux market share leaps by 212%</a></dt>
+<dd>"Market share for the Linux operating system surged by 212 percent in 1998, a growth rate that outpaced Windows NT, NetWare<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=NetWare" title="create this page">?</a>, Unix, and all others in the server market, according to a new study.*<p>    <a href="http://www.netcraft.com/survey/">Netcraft</a> doesn't break down their analysis by OS, however Apache, the webserver supplied with most Linux distributions holds about 60.8% market share, with Microsoft running a distant second at 28.69%. It should be stated that Apache is available for Microsoft OSs<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=OSs" title="create this page">?</a>, also, and Apache runs cross platform on nearly all *nix platforms."</p>
+</dd>
+<dt><a href="http://news.com.com/2100-1001-980054.html">Study: Linux headed for high end, too</a></dt>
+<dd>"Linux will be successful not only in lower-end servers, but also in higher-powered machines at the heart of corporate computing, a new study concludes."</dd>
+<dt><a href="http://news.com.com/2100-1033-980214.html">Linux coming to cell phones</a></dt>
+<dd>Among the big names backing Linux for mobile phones are chipmaker Texas Instruments and device maker NEC, representatives from the two companies confirmed Friday.</dd>
+<dt><a href="http://www.dwheeler.com/ossfswhy.html">Why Open Source Software / Free Software (OSS/FS)? Look at the Numbers!</a></dt>
+<dd>"This paper provides quantitative data that, in many cases, using open source software / free software is a reasonable or even superior approach to using their proprietary competition according to various measures. This paper's goal is to show that you should consider using OSS/FS when acquiring software. This paper examines market share, reliability, performance, scalability, security, and total cost of ownership. It also has sections on non-quantitative issues, unnecessary fears, usage reports, other sites providing related information, and ends with some conclusions. An appendix gives more background information about OSS/FS. You can view this paper at <a href="http://www.dwheeler.com/ossfswhy.html">http://www.dwheeler.com/ossfswhy.html</a> (HTML format). Palm PDA users can view it in Plucker format (you will also need Plucker to read it). A short briefing based on this paper is also available in PDF and Open Office Impress formats (for the latter, use Open Office Impress). Old archived copies and a list of changes are also available."</dd>
+<dt>How does Linux's reliability compare to Windows?</dt>
+<dd>YMMV. In the mid 90's, Linux was very stable and MSWindows<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=MSWindows" title="create this page">?</a> was not. Linux has concentrated on adding features, while Microsoft has, reportedly, done much better with making their operating systems stable.<p>  <a href="http://www.washingtontechnology.com/news/11/itstructure/19461-1.html">DISA finds widespread open-source use in DoD</a>
+    While not specific to Linux, this article refers to software that is commonly run on Linux.<p>    "A Defense Information Systems Agency report has found that the military is bypassing commercial proprietary software in favor open-source software more than it previously assumed."</p>
+<p>    "Use of Free and Open-Source Software (FOSS) in the U.S. Department of Defense," released Oct. 28 by Mitre Corp., Bedford, Mass., identified more than 115 open-source programs being used in 251 tasks. Results were compiled from e-mail surveys.</p>
+</p>
+</dd>
+<dt><a href="http://gnet.dhs.org/stories/bloor.php3">How do Linux and Windows NT measure up in real life?</a></dt>
+<dd>"The rapid rise of Linux and its growing implementation in a corporate context has spurred many a comparison in the past few months, up to and including attempts to benchmark both operating systems. Still, in the end it's the everyday use that will decide which OS is the most suitable one, and that is why Bloor Research (<a href="http://www.bloor-research.com">http://www.bloor-research.com</a>) has spent the past year comparing two systems, each running one of the operating systems. General conclusion of their white paper: the overall winner is Linux, although in a number of cases the difference with NT is very small."</dd>
+<dt><a href="http://hotwired.lycos.com/webmonkey/99/20/index3a.html">Linux Versus NT</a></dt>
+<dd>"To dig up some practical information, I hunted down the people in charge of technology at the most successful Web sites running on NT or Linux. I asked them to explain what works for them and what issues aspiring Web moguls should consider for their own setups. In the following pages, the CTOs<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=CTOs" title="create this page">?</a> and VPs<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=VPs" title="create this page">?</a> of technology from eBay, Salon, Slashdot, Lycos, Ask Jeeves, Drugstore.com, Deja.com, go2net, Angelfire, and of course, our own HotBot<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=HotBot" title="create this page">?</a> relate their experiences. If it's still too confusing, take the simple test at the end of the article to see which OS is right for you."</dd>
+<dt>Besides Oracle are there any "Open Source" <a href="http://www.kernel-panic.org/wiki/ACID">ACID</a> compliant databases?</dt>
+<dd><a href="http://www.kernel-panic.org/wiki/LanBarnes">Lan Barnes</a> says: Oracle has always dismissed Postgres by saying it's small time, untested, not for mission critical tasks. Some black eye for them when Afilias, which manages .org for [ICANN]<a class="new visualNoPrint" href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/createform?page=ICANN" title="create this page">?</a>, selected Postgres over them.<p>  <a href="http://www.computerworld.com.au/idg2.nsf/All/2ADD84E6EBCEADE9CA256CB30075FA01OpenDocument">PostgreSQL affiliates .ORG domain</a></p>
+</dd>
+<dt>Where in San Diego can I buy a Linux boxed set?</dt>
+<dd><a href="http://www.sdtb.com">SD Technical Books</a> and Fry's, at least.</dd>
+<dt>What books can you recommend for learning Linux?</dt>
+<dd>Check out the <a href="http://www.kernel-panic.org/wiki/BookList">BookList</a>.</dd>
+<dt>Where can I take Linux classes in San Diego?</dt>
+<dd><a href="http://htec.sdsu.edu/">HTEC</a> has offered a couple of Linux-based classes in the past. Call 'em up and express interest in Linux, and perhaps they'll do more."<p>  <a href="http://www.extension.ucsd.edu/Programs/index.cfm?vAction=certDetail&CertificateID87">SDSU Extension</a> has a UNIX certificate program.</p>
+<p>  <a href="http://www.vortexdata.com/schedule/microsoft/linux.asp">Vortex Data</a>] also has a few classes</p>
+</dd>
+<dt>Will my FOO video card work with Linux?</dt>
+<dd>Usually you're really wanting to know if your video card will work with X, the graphical interface for Linux and other *nix. The best source for finding compatibility is the <a href="http://www.xfree86.org/current/Status.html">Driver Status for  XFree86</a> web page.</dd>
+</dl>
+<p>
+</p>
+
+      <a name="bottom"></a>
+      <br />
+      
+    </div>
+      
+    
+
+                    
+                      
+                 
+    
+
+                    
+
+                  </div>
+
+                </div>
+
+              
+            </td>
+            
+
+            
+            <td id="portal-column-two">
+              <div class="visualPadding">
+                
+                  
+
+    
+        
+
+        
+            
+        
+
+        
+
+        
+    
+    
+        
+
+        
+            
+        
+
+        
+
+        
+    
+    
+        
+
+        
+            
+    <!-- The calendar, rendered as a table -->
+
+    <table class="ploneCalendar" id="thePloneCalendar"
+           summary="Calendar">
+        <thead>
+            <tr>
+                <th id="calendar-previous">
+                    <a href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/wikipage?None&amp;month:int=11&amp;year:int=2019&amp;orig_query=None"
+                       rel="nofollow" title="Previous month">&laquo;</a>
+                </th>
+                <th colspan="5">
+                    
+                        December
+                        2019
+                    
+                </th>
+                  <th id="calendar-next">
+                    <a href="http://www.kernel-panic.org/wiki/GeneralQuestionsAboutLinux/wikipage?None&amp;month:int=1&amp;year:int=2020&amp;orig_query=None"
+                       rel="nofollow" title="Next month">&raquo;</a>
+                </th>
+            </tr>
+            <tr class="weekdays">
+                
+                    <td>Su</td>
+                
+                
+                    <td>Mo</td>
+                
+                
+                    <td>Tu</td>
+                
+                
+                    <td>We</td>
+                
+                
+                    <td>Th</td>
+                
+                
+                    <td>Fr</td>
+                
+                
+                    <td>Sa</td>
+                
+            </tr>
+        </thead>
+
+        
+        <tbody>
+            <tr>
+               <td>1</td>
+               <td>2</td>
+               <td>3</td>
+               <td>4</td>
+               <td>5</td>
+               <td>6</td>
+               <td>7</td>
+            </tr>
+            <tr>
+               <td>8</td>
+               <td>9</td>
+               <td>10</td>
+               <td>11</td>
+               <td class="todaynoevent">12</td>
+               <td>13</td>
+               <td>14</td>
+            </tr>
+            <tr>
+               <td>15</td>
+               <td>16</td>
+               <td>17</td>
+               <td>18</td>
+               <td>19</td>
+               <td>20</td>
+               <td>21</td>
+            </tr>
+            <tr>
+               <td>22</td>
+               <td>23</td>
+               <td>24</td>
+               <td>25</td>
+               <td>26</td>
+               <td>27</td>
+               <td>28</td>
+            </tr>
+            <tr>
+               <td>29</td>
+               <td>30</td>
+               <td>31</td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+
+        
+
+        
+
+        
+    
+    
+        
+
+        
+            
+        
+
+        
+
+        
+    
+
+                
+                &nbsp;
+              </div>
+            </td>
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear"><!-- --></div>
+
+
+      <hr class="netscape4" />
+
+      
+
+        <div id="portal-footer">
+
+<p>Please direct any questions, comments or complaints about this site to <a href="mailto:webmaster@kernel-panic.org">webmaster@kernel-panic.org</a></p>
+
+
+Plone and its visual design is Copyright &copy; 2000-<span>2019</span>
+by
+<a href="http://www.plonesolutions.com">Alexander Limi</a>,
+<a href="http://www.enfoldsystems.com">Alan Runyan</a>,
+<a href="http://blacktar.com">Vidar Andersen</a>.
+
+
+</div>
+
+        <div id="portal-colophon">
+      
+
+      <a href="http://plone.org"
+         class="colophonIcon colophonIconPlone"
+         title="This Plone site was built using Plone CMS, the Open Source Content Management System. Click for more information.">
+        Powered by Plone CMS, the Open Source Content Management System
+      </a>
+
+      
+
+      <p class="discreet">
+        This site conforms to the following standards:
+      </p>
+
+      <div class="colophonWrapper">
+      <ul>
+    <li>
+      <a href="http://www.section508.gov"
+         class="colophonIcon colophonIcon508"
+         title="This Plone site conforms to the US Government Section 508 Accessibility Guidelines.">
+        Section 508
+      </a>
+    </li>
+    <li>
+      <a href="http://www.w3.org/WAI/WCAG1AA-Conformance"
+         class="colophonIcon colophonIconWAI"
+         title="This Plone site conforms to the W3C-WAI Web Content Accessibility Guidelines.">
+        WCAG
+      </a>
+    </li>
+    <li>
+      <a href="http://validator.w3.org/check/referer"
+         class="colophonIcon colophonIconXHTML"
+         title="This Plone site is valid XHTML.">
+        Valid XHTML
+      </a>
+    </li>
+    <li>
+      <a href="http://jigsaw.w3.org/css-validator/check/referer&amp;warning=no&amp;profile=css3&amp;usermedium=all"
+         class="colophonIcon colophonIconCSS"
+         title="This Plone site was built with valid CSS.">
+        Valid CSS
+      </a>
+    </li>
+    <li>
+      <a href="http://plone.org/browsersupport"
+         class="colophonIcon colophonIconAnyBrowser"
+         title="This Plone site is usable in any web browser.">
+        Usable in any browser
+      </a>
+    </li>
+      </ul>
+      </div>
+
+    </div>
+      
+
+    </div>
+
+</body>
+</html>
+

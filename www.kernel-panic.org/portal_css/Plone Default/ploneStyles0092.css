@@ -134,7 +134,7 @@
 .alertPortletWrapper .portletBody {
     background-color: #ffce7b;
     padding-left: 2.5em;
-    background-image: url(http://www.kernel-panic.org/info_icon.gif);
+    background-image: url(../../info_icon.gif);
     background-repeat: no-repeat;
     background-position: 5px 50%;
 }

@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+      lang="en">
+  <head>
+    <meta http-equiv="Content-Type"
+          content="text/html;charset=utf-8" />
+    
+    <link rel="stylesheet" type="text/css"
+          href="http://www.kernel-panic.org/wiki/FrontPage/stylesheet" />
+    <title> #kernel-panic</title>
+    
+      
+    
+    <meta name="keywords" content="#kernel-panic" />
+    <meta name="description"
+          content="Dalam ilmu komputer, kernel adalah suatu perangkat lunak yang menjadi bagian utama dari sebuah sistem operasi. Tugasnya melayani bermacam program aplikasi untuk mengakses perangkat keras komputer ..." />
+  
+    
+  </head>
+  <body>
+    
+    <div class="linkpanel">
+      <table class="shade1" width="100%" border="0" cellspacing="0">
+        <tr>
+          <td align="right">
+            <!-- standard wiki links -->
+            <a href="http://www.kernel-panic.org/wiki/FrontPage"
+               accesskey="f" title="show front page">
+            <span>home</span></a>
+            <a href="../FrontPage/recentchanges"
+               accesskey="r"
+               title="show wiki recent changes">
+            <span>changes</span></a>
+            
+            
+            <a href="../FrontPage/contents#%23kernel-panic"
+               accesskey="c" title="show wiki contents">
+            <span>contents</span></a>
+            
+            
+            
+            <a accesskey="o" title="show wiki options"
+               href="../FrontPage/useroptions">
+            <span>options</span></a>
+
+            <!-- standard page links -->
+            
+            <a href="subscribeform"
+               accesskey="m"
+               title="configure email subscription to this page or site">
+              
+            <span>subscribe</span></a>
+            
+            
+            
+          </td>
+        </tr>
+      </table>
+    </div>
+    
+      
+      <!-- always-available zwiki access keys -->
+      <a accesskey="f"
+         href="http://www.kernel-panic.org/wiki/FrontPage"></a>
+      <a accesskey="c"
+         href="../FrontPage/contents#%23kernel-panic"></a>
+      <a accesskey="r"
+         href="../FrontPage/recentchanges"></a>
+      
+      
+      
+      
+      <a accesskey="o"
+         href="../FrontPage/useroptions"></a>
+      
+      <a accesskey="-"
+         href="./setskin?skin=zwiki&amp;came_from=http:%252F%252Fwww.kernel-panic.org%252Fwiki%252FKernelPanic"></a>
+      <a accesskey="+"
+         href="./setskin?skin=plone&amp;came_from=http:%252F%252Fwww.kernel-panic.org%252Fwiki%252FKernelPanic"></a>
+      <a accesskey="v"
+         href="./setskin?skin=plone&amp;came_from=http:%252F%252Fwww.kernel-panic.org%252Fwiki%252FKernelPanic"></a>
+      <a accesskey="m"
+         href="subscribeform"></a>
+      <a accesskey="b"
+         href="backlinks"></a>
+      <a accesskey="d"
+         href="diff"></a>
+      <a accesskey="y"
+         href="manage_change_history_page"></a>
+      <a accesskey="e"
+         href="editform"></a>
+      <a accesskey="x"
+         href="../externalEdit_/KernelPanic?borrow_lock=1"></a>
+      <a accesskey="n"
+         href="../BeginnerFocus"></a>
+      <a accesskey="p"
+         href="../Subtopics"></a>
+      <a accesskey="u"
+         href="../Subtopics"></a>
+      <a accesskey="0"
+         href="showAccessKeys"></a>
+    
+      <div class="pageheader">
+      <!-- page header -->
+      <form method="GET"
+            action="http://www.kernel-panic.org/wiki/FrontPage/searchwiki">
+        <table width="100%" border="0" cellspacing="0">
+          <tr>
+            <!-- logo -->
+            <td id="logo" width="1%" valign="top"
+                class="logo">
+              
+                <a title="go to home page"
+                   href="http://www.kernel-panic.org/wiki">
+                  <img src="http://www.kernel-panic.org/wiki/misc_/ZWiki/ZWikiPage_icon"
+                       height="48" width="48" border="0"
+                       alt="home" /></a>
+                &nbsp;
+              
+            </td>
+            <!-- page name and context (parent topics) -->
+            <td align="left" width="79%">
+              
+                <small><ul style="list-style:none; margin-left:0;" class="aqtree3clickable">
+ <li style="list-style:none" class="aqtree3clickable"><a href="../Subtopics" name="subtopics%3A">subtopics:</a>
+<ul>
+ <li style="list-style:none" class="aqtree3clickable"><h1 style="display:inline;"><a href="backlinks" title="which pages link to this one ?" name="#kernel-panic">#kernel-panic</a></h1></li>
+</ul>
+ </li>
+</ul>
+</small>
+              
+              
+            </td>
+            <!-- search form & page info -->
+            <td class="searchbox" width="20%" align="right">
+              
+                <input id="searchinput" class="formfield"
+                       name="expr" type="text" size="20"
+                       maxlength="100" value=""
+                       title="search all pages"
+                       accesskey="s" /><br />
+                <span class="lasteditor">last edited  <a href="diff" title="show last edit ()" >3 years</a> ago by <b>tonyguards</b></span>
+              
+              
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+      <div align="right">  
+      <!-- page rating form -->
+      <div>
+        <a name="ratingform"></a>
+        <style type="text/css">
+          input.rating {border:none;}
+        </style>
+        <form method="POST" id="ratingform"
+              action="http://www.kernel-panic.org/wiki/KernelPanic/vote">
+           <input type="image" name="vote0" value="0"
+                  alt="0" class="rating" width="14"
+                  height="13" src="../../p_/sp" style=""
+                  title="click to vote 0 (poor) for this page (0 votes)" /><input
+    type="image" name="vote1" value="1" alt="1"
+    class="rating" src="../misc_/ZWiki/star_icon" style=""
+    title="click to vote 1 (average) for this page (0 votes)" /><input
+    type="image" name="vote2" value="2" alt="2"
+    class="rating" src="../misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 2 (above average) for this page (0 votes)" /><input
+    type="image" name="vote3" value="3" alt="3"
+    class="rating" src="../misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 3 (good) for this page (0 votes)" /><input
+    type="image" name="vote4" value="4" alt="4"
+    class="rating" src="../misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 4 (great) for this page (0 votes)" /><input
+    type="image" name="vote5" value="5" alt="5"
+    class="rating" src="../misc_/ZWiki/blank_star_icon"
+    style=""
+    title="click to vote 5 (superb) for this page (0 votes)" />
+        </form>
+      </div>
+    </div>
+      
+      <div class="content">
+      <!-- page content (main text, subtopics links, comments) -->
+      <!--
+      <div metal:use-macro="here/macros/maintext" />
+      <div metal:use-macro="here/macros/subtopics" />
+      <div metal:use-macro="here/macros/comments" />
+      -->
+      Dalam ilmu komputer, kernel adalah suatu perangkat lunak yang menjadi bagian utama dari sebuah sistem operasi. Tugasnya melayani bermacam program aplikasi untuk mengakses perangkat keras komputer secara aman.
+-
+-Karena akses terhadap perangkat keras terbatas, sedangkan ada lebih dari satu program yang harus dilayani dalam waktu yang bersamaan, maka kernel juga bertugas untuk mengatur kapan dan berapa lama suatu program dapat menggunakan satu bagian perangkat keras tersebut. Hal tersebut dinamakan sebagai multiplexing.
+-
+-Akses kepada perangkat keras secara langsung merupakan masalah yang kompleks, oleh karena itu kernel biasanya mengimplementasikan sekumpulan abstraksi hardware. Abstraksi-abstraksi tersebut merupakan sebuah cara untuk menyembunyikan kompleksitas, dan memungkinkan akses kepada perangkat keras menjadi mudah dan seragam. Sehingga abstraksi pada akhirnya memudahkan pekerjaan programer.
+-
+-Untuk menjalankan sebuah komputer kita tidak harus menggunakan kernel sistem operasi. Sebuah program dapat saja langsung diload dan dijalankan di atas mesin 'telanjang' komputer, yaitu bilamana pembuat program ingin melakukan pekerjaannya tanpa bantuan abstraksi perangkat keras atau bantuan sistem operasi. Teknik ini digunakan oleh komputer generasi awal, sehingga bila kita ingin berpindah dari satu program ke program lain, kita harus mereset dan meload kembali program-program tersebut.
+-
+-Sumber :
+
+
+-* <a href="http://www.trimasjaya.com/products/kanopi/index.html">Kanopi</a>
+-* <a href="http://www.trimasjaya.com/products/teralis/index.html">Teralis</a>
+ * <a href="http://www.tokobungasabana.com">Toko Bunga</a> 
+ * <a href="https://digiadvertise.wordpress.com/our-services/jasa-seo/">Jasa SEO Jakarta</a>
+
+
+
+Iklan 
+<a href="http://www.dinastipoker.com">Agen Domino 99</a>
+<a href="http://www.dinastipoker.com">poker online uang asli</a>
+<a href="http://www.promodomino.com">Domino Online</a>
+
+
+
+
+      <a name="bottom"></a>
+      <br />
+      
+    </div>
+      
+    
+  </body>
+</html>
+
